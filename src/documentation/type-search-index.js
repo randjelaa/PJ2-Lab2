@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"net.etfbl.pj2.hotel","l":"Hotel"},{"p":"net.etfbl.pj2.test","l":"RadSaSistemom"},{"p":"net.etfbl.pj2.hotel","l":"Soba"},{"p":"net.etfbl.pj2.test","l":"TestBrojevi"},{"p":"net.etfbl.pj2.test","l":"TestHotel"},{"p":"net.etfbl.pj2.brojevi","l":"VrsteBrojeva"}]
